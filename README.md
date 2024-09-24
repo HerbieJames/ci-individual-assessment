@@ -7,16 +7,13 @@ A brief description of the project's purpose, what it aims to achieve, and the v
 **Guidance:** Begin filling out this section during Phase 1: Ideation & Initial Setup. Clearly articulate the main goal of your project, what it aims to achieve, and how it will provide value to your target audience.
 
 ### Target Audience
-Identify the target audience for your website and explain why this audience will benefit from the project.  
+Individuals within a workspace, who may seek clear guidance as to effect conduct with conscientiousness for inclusivity when it comes to diversity.
 **Guidance:** Use this section to identify who will benefit from your project and why. This should be informed by your user stories and overall project objectives.
 
 ## User Stories
-
 ### Must-Have User Stories
-- **User Story 1:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
+- **Employee:** The user wants to gain a basic understanding of diversity and inclusion in the workplace or educational environment. They seek straightforward information and tips presented in a clear, organised format.
+- **Employer:** The site owner aims to have a visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. The focus is on clear communication through effective design and layout.
 
 (Include all prioritized must-have features)  
 **Guidance:** Draft the user stories during Phase 1: Ideation & Initial Setup and update them as you complete Phase 2: Must User Stories Implementation & Testing. Document each must-have feature here along with its acceptance criteria.
