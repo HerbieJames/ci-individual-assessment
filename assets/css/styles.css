@@ -26,6 +26,10 @@ header {
     box-shadow: 0 3px 2px;
     margin: 0;
     border: 0;
+    padding: 1%;
+    position:sticky;
+    z-index: 1;
+    top:0;
 }
 
 .centre {
