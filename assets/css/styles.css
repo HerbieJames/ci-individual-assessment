@@ -16,20 +16,31 @@ footer {
     margin: 0;
     border: 0;
     text-align: center;
-    position:absolute;
+    position: relative;
     width:100%;
-    bottom:0px;
+    height:2em;
 }
 
 header {
-    background-color: aquamarine;
+    background-color: rgb(230, 230, 250);
     box-shadow: 0 3px 2px;
-    margin: 0;
-    border: 0;
-    padding: 1%;
-    position:sticky;
     z-index: 1;
-    top:0;
+    width: 95%;
+    margin: 0 auto;
+    padding: 1% 3%;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+.return {
+    position: fixed; 
+    bottom: 0; 
+    margin: 1% 3%;
+    padding: 0.5% 3%;
+    z-index: 1;
+    background-color: rgb(230, 230, 250);
+    box-shadow: 0 3px 2px;
 }
 
 .centre {
@@ -41,6 +52,6 @@ header {
   }
 
 .text-muted {
-    font-size: xx-small;
+    font-size: x-small;
     margin-left: 5%;
 }
