@@ -16,7 +16,7 @@ body {
 }
 
 footer {
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
     margin: 0;
     border: 0;
     text-align: center;
@@ -38,6 +38,16 @@ header {
     top: 0;
 }
 
+img {
+    max-width: 100%;
+}
+
+.col-sm {
+    background-color: rgb(230, 230, 250);
+    box-shadow: 0 3px 2px;
+    margin: 1%;
+}
+
 .return {
     position: fixed; 
     bottom: 0; 
@@ -53,6 +63,13 @@ header {
     margin-left: 5%;
 }
 
-img {
-    max-width: 100%;
+.jumbotron {
+    background: rgba(255, 255, 255, 0.75);
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+}
+
+.padding {
+    height: 10vh;
 }
