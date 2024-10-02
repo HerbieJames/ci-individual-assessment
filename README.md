@@ -1,6 +1,6 @@
 # Inclusivity in a Diverse Workspace
 
-**Link:** 
+**Active link:** *[Inclusivity in a Diverse Workspace](https://herbiejames.github.io/ci-individual-assessment/)* 
 ## Purpose
 To introduce diversity and inclusion concepts to employees of a workplace, and offers basic guidance on how to implement these practices.
 ## Target Audience
@@ -25,15 +25,15 @@ index.html features a large navigation centre, enabling Users to quickly access 
 - **Document Navigation:** A collapsible, simpler version of the navigation feature, available on the i-and-d.html document itself
 - **Form:** A separate page that enables Users to submit enquiries, or complaints, about the document's content.
 ## Deployment Process
-*Briefly describe the deployment process to GitHub Pages or another cloud platform.*  
-*Mention any specific challenges encountered during deployment.*  
+Entering the Settings tab of my repo's github page, within the 'Pages' section of 'Code and Automation', I changed the source of my project from 'none' to branch 'main', and saved the change.
 ### Testing Results
-*Summarize the results of testing with Chrome Dev Tools, with different devices and screen sizes.*  
-*Mention any issues found and how they were resolved.*  
+I used the python3 command "http.server" in GitPod to launch my site in a private environment, alongside Google Chrome's Dev tools to preview the site beside it's code. I was able to adjust dimension sizes, and ensure all features would be operable on a multitude of devices. Specifically, this showed me how my first solution to fixing a footer to the bottom of the page would be insufficient if the device's veiwport dimensions exceeded that of the site itself; with a fixed position, the footer sat centrally in the page in these circumstances. I responded to this by using an absolute position for the footer instead, and the page displayed as intended.
 ### Validation
-*Discuss the validation process for HTML and CSS using W3C and Jigsaw validators.*  
-*Include the results of the validation process.*  
-***Guidance:** Document your use of W3C and Jigsaw validators to ensure your HTML and CSS meet web standards. Include any errors or warnings encountered and how they were resolved.*
-## Image Assets Sourced:
+![HTML Validator](assets/images/Screenshot%202024-10-02%20114003.jpg "HTML Validator")
+![CSS Validator](assets/images/Screenshot%202024-10-02%20114153.jpg "CSS Validator")
+
+In response to the validation process, several updates were made to the image alts. No further action was necessary
+
+## Assets Used:
 https://theitcrowd.fandom.com/wiki/Reynholm_Industries?file=Reynholmlogo.png
 https://pixabay.com/illustrations/portrait-man-office-worker-8694041/
